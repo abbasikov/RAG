@@ -1,0 +1,8 @@
+openai
+streamlit
+faiss-cpu
+python-dotenv
+sendgrid
+python-docx
+sentence-transformers
+numpy
